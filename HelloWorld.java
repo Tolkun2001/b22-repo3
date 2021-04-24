@@ -1,3 +1,5 @@
 public class HelloWorld{
-	public static void main full main method
+	public static void main(String[]args){
+		
+	}
 }
